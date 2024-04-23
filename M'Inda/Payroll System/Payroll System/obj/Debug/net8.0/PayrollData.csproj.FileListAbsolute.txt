@@ -1,0 +1,4 @@
+C:\Users\Jessa Mae\Desktop\M'Inda\Payroll System\Payroll System\obj\Debug\net8.0\PayrollData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessa Mae\Desktop\M'Inda\Payroll System\Payroll System\obj\Debug\net8.0\PayrollData.AssemblyInfoInputs.cache
+C:\Users\Jessa Mae\Desktop\M'Inda\Payroll System\Payroll System\obj\Debug\net8.0\PayrollData.AssemblyInfo.cs
+C:\Users\Jessa Mae\Desktop\M'Inda\Payroll System\Payroll System\obj\Debug\net8.0\PayrollData.csproj.CoreCompileInputs.cache
